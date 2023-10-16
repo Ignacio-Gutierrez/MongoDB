@@ -162,4 +162,4 @@ def run_script(index):
 if __name__ == "__main__":
     num_processes = os.cpu_count()  # Obtener el número de núcleos de la CPU
     with ProcessPoolExecutor(max_workers=num_processes) as executor:
-        results = list(executor.map(run_script, range(5)))
+        results = list(executor.map(run_script, range(100000)))
