@@ -1,0 +1,1 @@
+lista_sucursales = ["Sucursal A", "Sucursal B", "Sucursal C", "Sucursal D", "Sucursal E"]

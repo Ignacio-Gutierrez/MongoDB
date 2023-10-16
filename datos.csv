@@ -1,0 +1,88 @@
+_id,nombre,provincia,cod_ciudad
+652dc0dab45115b90cd33829,Buenos Aires,Buenos Aires,BA_BUE
+652dc0dcb45115b90cd3382a,La Plata,Buenos Aires,BA_LA_
+652dc0ddb45115b90cd3382b,Mar del Plata,Buenos Aires,BA_MAR
+652dc0ddb45115b90cd3382c,Bahía_Blanca,Buenos Aires,BA_BAH
+652dc0ddb45115b90cd3382d,Resistencia,Chaco,CC_RES
+652dc0ddb45115b90cd3382e,Barranqueras,Chaco,CC_BAR
+652dc0deb45115b90cd3382f,Presidencia Roque Sáenz Peña,Chaco,CC_PRE
+652dc0deb45115b90cd33830,Charata,Chaco,CC_CHA
+652dc0deb45115b90cd33831,Rawson,Chubut,CH_RAW
+652dc0deb45115b90cd33832,Trelew,Chubut,CH_TRE
+652dc0dfb45115b90cd33833,Comodoro Rivadavia,Chubut,CH_COM
+652dc0dfb45115b90cd33834,Puerto Madryn,Chubut,CH_PUE
+652dc0dfb45115b90cd33835,Córdoba,Córdoba,CB_CÓR
+652dc0dfb45115b90cd33836,Villa María,Córdoba,CB_VIL
+652dc0e0b45115b90cd33837,Río Cuarto,Córdoba,CB_RÍO
+652dc0e0b45115b90cd33838,San Francisco,Córdoba,CB_SAN
+652dc0e0b45115b90cd33839,Corrientes,Corrientes,CR_COR
+652dc0e0b45115b90cd3383a,Goya,Corrientes,CR_GOY
+652dc0e1b45115b90cd3383b,Mercedes,Corrientes,CR_MER
+652dc0e1b45115b90cd3383c,Curuzú Cuatiá,Corrientes,CR_CUR
+652dc0e1b45115b90cd3383d,Paraná,Entre Ríos,ER_PAR
+652dc0e1b45115b90cd3383e,Concordia,Entre Ríos,ER_CON
+652dc0e2b45115b90cd3383f,Gualeguaychú,Entre Ríos,ER_GUA
+652dc0e2b45115b90cd33840,La Paz,Entre Ríos,ER_LA_
+652dc0e2b45115b90cd33841,Formosa,Formosa,FO_FOR
+652dc0e2b45115b90cd33842,Clorinda,Formosa,FO_CLO
+652dc0e3b45115b90cd33843,Pirané,Formosa,FO_PIR
+652dc0e3b45115b90cd33844,Las Lomitas,Formosa,FO_LAS
+652dc0e3b45115b90cd33845,San Salvador de Jujuy,Jujuy,JY_SAN
+652dc0e3b45115b90cd33846,Palpalá,Jujuy,JY_PAL
+652dc0e4b45115b90cd33847,San Pedro,Jujuy,JY_SAN
+652dc0e4b45115b90cd33848,La Quiaca,Jujuy,JY_LA_
+652dc0e4b45115b90cd33849,Santa Rosa,La Pampa,LP_SAN
+652dc0e4b45115b90cd3384a,General Pico,La Pampa,LP_GEN
+652dc0e5b45115b90cd3384b,Toay,La Pampa,LP_TOA
+652dc0e5b45115b90cd3384c,Realicó,La Pampa,LP_REA
+652dc0e5b45115b90cd3384d,La Rioja,La Rioja,LR_LA_
+652dc0e5b45115b90cd3384e,Chilecito,La Rioja,LR_CHI
+652dc0e6b45115b90cd3384f,Aimogasta,La Rioja,LR_AIM
+652dc0e6b45115b90cd33850,Chamical,La Rioja,LR_CHA
+652dc0e6b45115b90cd33851,Mendoza,Mendoza,MZ_MEN
+652dc0e7b45115b90cd33852,San Rafael,Mendoza,MZ_SAN
+652dc0e7b45115b90cd33853,Godoy Cruz,Mendoza,MZ_GOD
+652dc0e7b45115b90cd33854,Luján de Cuyo,Mendoza,MZ_LUJ
+652dc0e7b45115b90cd33855,Posadas,Misiones,MN_POS
+652dc0e8b45115b90cd33856,Puerto Iguazú,Misiones,MN_PUE
+652dc0e8b45115b90cd33857,Oberá,Misiones,MN_OBE
+652dc0e8b45115b90cd33858,Eldorado,Misiones,MN_ELD
+652dc0e8b45115b90cd33859,Neuquén,Neuquén,NQ_NEU
+652dc0e9b45115b90cd3385a,Cutral-Có,Neuquén,NQ_CUT
+652dc0e9b45115b90cd3385b,Plottier,Neuquén,NQ_PLO
+652dc0e9b45115b90cd3385c,Zapala,Neuquén,NQ_ZAP
+652dc0e9b45115b90cd3385d,Viedma,Río Negro,RN_VIE
+652dc0eab45115b90cd3385e,General Roca,Río Negro,RN_GEN
+652dc0eab45115b90cd3385f,Cipolletti,Río Negro,RN_CIP
+652dc0eab45115b90cd33860,San Carlos de Bariloche,Río Negro,RN_SAN
+652dc0eab45115b90cd33861,Salta,Salta,SA_SAL
+652dc0ebb45115b90cd33862,San Ramón de la Nueva Orán,Salta,SA_SAN
+652dc0ebb45115b90cd33863,Tartagal,Salta,SA_TAR
+652dc0ebb45115b90cd33864,San Salvador de Jujuy,Salta,SA_SAN
+652dc0ebb45115b90cd33865,San Juan,San Juan,SJ_SAN
+652dc0ecb45115b90cd33866,Rawson,San Juan,SJ_RAW
+652dc0ecb45115b90cd33867,Pocito,San Juan,SJ_POC
+652dc0ecb45115b90cd33868,Chimbas,San Juan,SJ_CHI
+652dc0ecb45115b90cd33869,San Luis,San Luis,SL_SAN
+652dc0edb45115b90cd3386a,Villa Mercedes,San Luis,SL_VIL
+652dc0edb45115b90cd3386b,La Toma,San Luis,SL_LA_
+652dc0edb45115b90cd3386c,Merlo,San Luis,SL_MER
+652dc0edb45115b90cd3386d,Río Gallegos,Santa Cruz,SC_RÍO
+652dc0eeb45115b90cd3386e,Caleta Olivia,Santa Cruz,SC_CAL
+652dc0eeb45115b90cd3386f,Pico Truncado,Santa Cruz,SC_PIC
+652dc0eeb45115b90cd33870,El Calafate,Santa Cruz,SC_EL_
+652dc0eeb45115b90cd33871,Santa Fe,Santa Fe,SF_SAN
+652dc0efb45115b90cd33872,Rosario,Santa Fe,SF_ROS
+652dc0efb45115b90cd33873,Venado Tuerto,Santa Fe,SF_VEN
+652dc0efb45115b90cd33874,San Lorenzo,Santa Fe,SF_SAN
+652dc0efb45115b90cd33875,Santiago del Estero,Santiago del Estero,SE_SAN
+652dc0f0b45115b90cd33876,La Banda,Santiago del Estero,SE_LA_
+652dc0f0b45115b90cd33877,Termas de Río Hondo,Santiago del Estero,SE_TER
+652dc0f0b45115b90cd33878,Añatuya,Santiago del Estero,SE_AÑA
+652dc0f0b45115b90cd33879,Ushuaia,Tierra del Fuego,TF_USH
+652dc0f1b45115b90cd3387a,Río Grande,Tierra del Fuego,TF_RÍO
+652dc0f1b45115b90cd3387b,Tolhuin,Tierra del Fuego,TF_TOL
+652dc0f1b45115b90cd3387c,San Miguel de Tucumán,Tucumán,TU_SAN
+652dc0f2b45115b90cd3387d,Yerba Buena,Tucumán,TU_YER
+652dc0f2b45115b90cd3387e,Concepción,Tucumán,TU_CON
+652dc0f2b45115b90cd3387f,Tafí Viejo,Tucumán,TU_TAF
